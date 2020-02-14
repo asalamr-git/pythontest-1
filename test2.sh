@@ -7,4 +7,4 @@ then
     echo "salam"
 fi
 
-echo "hello"
+echo "hello salam"
